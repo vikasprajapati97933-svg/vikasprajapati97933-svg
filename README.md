@@ -22,7 +22,7 @@
 
 ## 📊 My Projects
 
-### 🛍️ 1. Customer Shopping Behavior Analysis
+### 🛍️ 1. Customer Shopping Analysis
 > **End-to-End** | Python → MySQL → Power BI
 
 - Analyzed customer purchasing patterns across demographics & segments
@@ -33,7 +33,7 @@
 <!-- To add: drag & drop image into GitHub editor when editing this file -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Customer-Shopping-Behavior-Analysis)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/customer-shopping-analysis)
 
 ---
 
@@ -47,7 +47,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Global-Superstore-Sales-Analysis)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/global-superstore-analysis)
 
 ---
 
@@ -61,7 +61,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Books-Sales-Analysis-)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/books-sales-analysis)
 
 ---
 
@@ -75,7 +75,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Credit-Card-Dashboard)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/credit-card-analysis)
 
 ---
 
@@ -89,7 +89,7 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Healthcare-Analysis-)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/healthcare-data-analysis)
 
 ---
 
@@ -103,13 +103,13 @@
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 
 
-🔗 [View Project](https://github.com/sunitaprajapati6561-hue/Customer-Sales-Analysis)
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/customer-sales-analysis)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunitaprajapati6561-hue&show_icons=true&theme=default&hide_border=true)
+![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasprajapti97933-svg&show_icons=true&theme=default&hide_border=true)
 
 ---
 

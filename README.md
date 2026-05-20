@@ -101,7 +101,18 @@
 - Insights on occasions, locations & time-based trends
 
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
+### 🏦 7. Bank Customer Churn Analysis
+> **End-to-End** | Python → SQL → Power BI
 
+- Analyzed churn behavior of 10,000 bank customers across 3 countries
+- 17 advanced SQL queries identifying high-risk segments
+- 4-page interactive Power BI dashboard with DAX measures
+
+<!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
+
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/Customer-Churn-Analysis)
+
+ --- 
 
 🔗 [View Project](https://github.com/vikasprajapati97933-svg/customer-sales-analysis)
 

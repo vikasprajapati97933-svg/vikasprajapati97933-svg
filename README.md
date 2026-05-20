@@ -100,6 +100,10 @@
 - Built interactive Excel dashboard with Pivot Charts & Slicers
 - Insights on occasions, locations & time-based trends
 
+
+🔗 [View Project](https://github.com/vikasprajapati97933-svg/customer-sales-analysis)
+
+---
 <!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
 ### 🏦 7. Bank Customer Churn Analysis
 > **End-to-End** | Python → SQL → Power BI

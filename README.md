@@ -118,9 +118,7 @@
 
  --- 
 
-🔗 [View Project](https://github.com/vikasprajapati97933-svg/customer-sales-analysis)
 
----
 
 ## 📈 GitHub Stats
 
